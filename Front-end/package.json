@@ -1,0 +1,7 @@
+{
+  "name": "reeltime-frontend",
+  "private": true,
+  "scripts": {
+    "dev": "npm --prefix ./client run dev"
+  }
+}
